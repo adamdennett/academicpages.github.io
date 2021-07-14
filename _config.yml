@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Adam Dennett"
 title_separator          : "-"
 name                     : &name "Adam Dennett"
-description              : &description "Professor of Urban Analytics, "
+description              : &description "Professor of Urban Analytics, UCL"
 url                      : https://adamdennett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamdennett/adamdennett.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Adam Dennett"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Professor of Urban Analytics"
   location         : "London / Brighton UK"
-  employer         : "Centre for Advanced Spatial Analysis, University College London"
+  employer         : "University College London"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=P_sHtmkAAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #""
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/adam-dennett-b5b3a229/"
   orcid            : "https://orcid.org/0000-0001-8036-0185"
   pinterest        :
   soundcloud       :
