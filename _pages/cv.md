@@ -19,11 +19,11 @@ Education
 Work 
 ======
 * 2010-Present - Centre for Advanced Spatial Analysis, UCL
-  * 2010 Research Associate
-  * 2013 Lecturer
-  * 2017 Associate Professor
   * 2021 Professor
-  
+  * 2017 Associate Professor
+  * 2013 Lecturer
+  * 2010 Research Associate
+
 * 2006-2010 - School of Geography, University of Leeds
   * Research Associate and Part-Time PhD Student
   
